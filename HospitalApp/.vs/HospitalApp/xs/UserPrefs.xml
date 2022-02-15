@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{CDE651CE-988E-4D1A-8CB1-FF91666CAE5D}|Default">
+  <MonoDevelop.Ide.ItemProperties.HospitalApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HospitalApp/Program.cs">
+    <Files>
+      <File FileName="HospitalApp/Program.cs" Line="759" Column="33" />
+      <File FileName="HospitalApp/Patient.cs" />
+      <File FileName="HospitalApp/Stay.cs" />
+      <File FileName="HospitalApp/Child.cs" />
+      <File FileName="HospitalApp/Adult.cs" />
+      <File FileName="HospitalApp/Senior.cs" />
+      <File FileName="HospitalApp/MedicalRecord.cs" />
+      <File FileName="HospitalApp/BedStay.cs" />
+      <File FileName="HospitalApp/Bed.cs" />
+      <File FileName="HospitalApp/ClassABed.cs" />
+      <File FileName="HospitalApp/ClassBBed.cs" />
+      <File FileName="HospitalApp/ClassCBed.cs" />
+      <File FileName="HospitalApp/Rates.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HospitalApp" expanded="True">
+            <Node name="HospitalApp" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
